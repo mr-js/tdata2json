@@ -1,0 +1,6 @@
+requests
+telethon
+rich
+faker
+opentele
+PySocks
